@@ -1,0 +1,301 @@
+
+15:37:18.75 | SUCCESS | Добавлена сессия +380992327758 @artix111 PROXY : NONE
+15:37:25.10 | SUCCESS | Добавлена сессия +380992327758 @artix111 PROXY : NONE
+15:39:05.32 | INFO | Найдено сессий: 2!
+15:39:05.32 | INFO | Проверяю сессии на валидность!
+15:39:08.72 | ERROR | Artix.session is invalid
+15:39:08.72 | SUCCESS | Валидных сессий: 1; Невалидных: 1
+15:39:22.97 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+15:39:36.03 | INFO | tasks | Thread 0 | Art | Summer Quest | TRY DO Join TON Station task!
+15:39:41.11 | INFO | tasks | Thread 0 | Art | Summer Quest | TRY DO Join ZAVOD & Earn ZP task!
+15:39:48.34 | INFO | tasks | Thread 0 | Art | Summer Quest | TRY DO Join $NEVERSOL task!
+15:39:53.59 | INFO | tasks | Thread 0 | Art | Summer Quest | TRY DO Join ProMarket task!
+15:39:56.89 | INFO | tasks | Thread 0 | Art | Summer Quest | TRY DO Join $BAOM task!
+15:41:52.50 | INFO | main | Thread 0 | Art | Have 5 diamonds!
+15:41:52.53 | INFO | game | Thread 0 | Art | Start DROP GAME!
+15:42:23.39 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 104
+15:44:04.56 | INFO | game | Thread 0 | Art | Start DROP GAME!
+15:44:34.82 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 118
+15:46:54.11 | INFO | game | Thread 0 | Art | Start DROP GAME!
+15:47:24.48 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 108
+15:50:00.76 | INFO | game | Thread 0 | Art | Start DROP GAME!
+15:50:30.89 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 117
+15:53:46.12 | INFO | game | Thread 0 | Art | Start DROP GAME!
+15:54:16.71 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 117
+15:57:36.87 | SUCCESS | main | Thread 0 | Art | Claimed reward! Balance: 523.6
+15:57:57.79 | SUCCESS | tasks | Thread 0 | Art | Summer Quest | DONE Join ZAVOD & Earn ZP task!
+15:58:02.06 | SUCCESS | tasks | Thread 0 | Art | Summer Quest | DONE Join $NEVERSOL task!
+15:58:05.33 | SUCCESS | tasks | Thread 0 | Art | Summer Quest | DONE Join ProMarket task!
+15:58:12.40 | SUCCESS | tasks | Thread 0 | Art | Summer Quest | DONE Join $BAOM task!
+15:58:16.91 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 200
+15:58:23.18 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 300
+15:58:26.33 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 200
+15:59:07.20 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 200
+15:59:12.35 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:18.48 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:22.91 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:26.99 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:31.29 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:36.36 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:39.92 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+15:59:47.98 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+15:59:48.32 | INFO | main | Thread 0 | Art | Start farming!
+16:00:43.32 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+16:00:43.32 | INFO | main | Thread 0 | Art | Sleep 34245 seconds!
+16:38:28.00 | INFO | Найдено сессий: 1!
+16:38:28.00 | INFO | Проверяю сессии на валидность!
+16:38:29.81 | SUCCESS | Валидных сессий: 1; Невалидных: 0
+16:38:40.66 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+16:39:39.54 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+16:39:39.54 | INFO | main | Thread 0 | Art | Sleep 33292 seconds!
+12:53:55.49 | SUCCESS | Добавлена сессия +380963052480 @maxim_paradise PROXY : NONE
+12:54:06.16 | SUCCESS | Добавлена сессия +380963052480 @maxim_paradise PROXY : NONE
+12:54:40.41 | INFO | Найдено сессий: 2!
+12:54:40.41 | INFO | Проверяю сессии на валидность!
+12:54:42.60 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+12:54:48.88 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+12:54:50.04 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+12:55:00.87 | SUCCESS | get_ref | Thread 1 | Main | Claimed referral reward! Claimed: 26.46
+12:55:34.27 | INFO | main | Thread 1 | Main | Have 193 diamonds!
+12:55:34.33 | INFO | game | Thread 1 | Main | Start DROP GAME!
+12:55:35.00 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 90
+12:55:44.07 | INFO | main | Thread 0 | Art | Have 4 diamonds!
+12:55:44.14 | INFO | game | Thread 0 | Art | Start DROP GAME!
+12:56:04.75 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 116
+12:56:14.56 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 101
+12:58:43.76 | INFO | game | Thread 0 | Art | Start DROP GAME!
+12:58:58.86 | INFO | game | Thread 1 | Main | Start DROP GAME!
+12:59:14.05 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 115
+12:59:29.14 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 119
+13:01:59.25 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:02:01.35 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:02:29.64 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 108
+13:02:31.61 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 101
+13:04:17.77 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:04:26.73 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:04:48.40 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 134
+13:04:57.16 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 105
+13:07:25.08 | SUCCESS | main | Thread 0 | Art | Claimed reward! Balance: 2953.8
+13:07:28.30 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:07:58.90 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 135
+14:11:53.29 | INFO | Найдено сессий: 2!
+14:11:53.29 | INFO | Проверяю сессии на валидность!
+14:11:55.58 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+14:12:11.93 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+14:12:12.34 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+14:12:56.20 | INFO | main | Thread 1 | Main | Have 188 diamonds!
+14:12:56.25 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:13:08.78 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+14:13:09.12 | INFO | main | Thread 0 | Art | Start farming!
+14:13:26.49 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 133
+14:14:12.99 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+14:14:12.99 | INFO | main | Thread 0 | Art | Sleep 33448 seconds!
+14:16:20.26 | INFO | Найдено сессий: 2!
+14:16:20.26 | INFO | Проверяю сессии на валидность!
+14:16:22.42 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+14:16:36.50 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+14:16:38.73 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+14:17:13.29 | INFO | main | Thread 1 | Main | Have 187 diamonds!
+14:17:13.33 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:17:27.42 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+14:17:27.42 | INFO | main | Thread 0 | Art | Sleep 35669 seconds!
+14:17:43.76 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 115
+14:19:40.98 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:20:11.33 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 121
+14:23:29.48 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:24:00.00 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 124
+14:26:13.16 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:26:43.77 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 122
+14:29:03.92 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:29:34.50 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 102
+14:32:51.69 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:33:22.04 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 118
+14:36:34.23 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:37:04.59 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 114
+14:39:04.77 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:39:35.36 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 109
+14:42:08.58 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:42:39.16 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 114
+14:44:42.28 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:45:12.44 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 133
+14:47:44.60 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:48:15.01 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 124
+14:50:08.14 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:50:38.53 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 125
+14:53:41.74 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:54:12.12 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 120
+14:57:09.27 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:57:39.69 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 112
+19:55:02.69 | INFO | Найдено сессий: 2!
+19:55:02.69 | INFO | Проверяю сессии на валидность!
+19:55:05.27 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+19:55:11.65 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+19:55:14.92 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+19:55:58.22 | INFO | main | Thread 1 | Main | Have 173 diamonds!
+19:55:58.27 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:56:07.87 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+19:56:07.87 | INFO | main | Thread 0 | Art | Sleep 13880 seconds!
+19:56:28.37 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 129
+19:58:53.52 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:59:24.53 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 104
+20:02:01.96 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:02:32.29 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 138
+20:04:17.61 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:04:48.42 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 134
+20:06:40.59 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:07:10.79 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 121
+20:09:53.91 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:10:24.53 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 133
+20:12:41.70 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:13:12.06 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 121
+20:15:19.18 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:15:49.57 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 138
+20:18:49.75 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:19:20.07 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 104
+20:22:29.22 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:22:59.71 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 130
+20:24:49.94 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:25:20.36 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 118
+20:27:24.66 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:27:55.07 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 128
+20:29:46.27 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:30:16.51 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 136
+20:32:20.02 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:32:50.20 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 137
+20:35:44.36 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:36:14.93 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 118
+20:38:05.26 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:38:35.52 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 104
+20:39:46.89 | INFO | Найдено сессий: 2!
+20:39:46.89 | INFO | Проверяю сессии на валидность!
+20:39:49.18 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+20:39:59.35 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+20:40:04.66 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+20:40:49.59 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+20:40:49.59 | INFO | main | Thread 0 | Art | Sleep 11757 seconds!
+20:40:52.46 | INFO | main | Thread 1 | Main | Have 157 diamonds!
+20:40:52.50 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:41:23.09 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 112
+20:43:49.29 | INFO | game | Thread 1 | Main | Start DROP GAME!
+20:44:19.71 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 101
+13:33:42.84 | INFO | Найдено сессий: 2!
+13:33:42.85 | INFO | Проверяю сессии на валидность!
+13:33:45.60 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+13:33:51.71 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+13:33:53.72 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+13:34:31.00 | INFO | main | Thread 1 | Main | Have 160 diamonds!
+13:34:31.05 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:34:37.91 | INFO | main | Thread 0 | Art | Have 5 diamonds!
+13:34:37.96 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:35:05.69 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 167
+13:35:08.47 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 154
+13:37:48.88 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:38:16.64 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:38:23.45 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 169
+13:38:46.88 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 147
+13:40:27.06 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:40:57.62 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 164
+13:41:22.59 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:41:52.85 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 166
+13:43:31.79 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:43:45.98 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:44:02.21 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 153
+13:44:20.55 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 171
+13:46:05.76 | INFO | game | Thread 0 | Art | Start DROP GAME!
+13:46:36.30 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 148
+13:47:27.83 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:47:58.03 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 143
+13:49:44.77 | SUCCESS | main | Thread 0 | Art | Claimed reward! Balance: 3772.4
+13:50:11.19 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:50:39.66 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+13:50:40.10 | INFO | main | Thread 0 | Art | Start farming!
+13:50:41.65 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 145
+13:51:34.02 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+13:51:34.02 | INFO | main | Thread 0 | Art | Sleep 33167 seconds!
+13:53:42.84 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:54:13.42 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 147
+13:57:30.58 | INFO | game | Thread 1 | Main | Start DROP GAME!
+13:58:05.07 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 168
+14:01:10.25 | INFO | game | Thread 1 | Main | Start DROP GAME!
+14:01:40.56 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 144
+18:17:26.90 | INFO | Найдено сессий: 2!
+18:17:26.90 | INFO | Проверяю сессии на валидность!
+18:17:29.19 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+18:17:35.41 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+18:17:39.93 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+18:17:50.51 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 300
+18:17:54.97 | SUCCESS | get_ref | Thread 1 | Main | Claimed referral reward! Claimed: 35.86
+18:18:01.50 | SUCCESS | tasks | Thread 1 | Main | Claimed TASK reward! Claimed: 300
+18:18:37.72 | INFO | main | Thread 0 | Art | Have 1 diamonds!
+18:18:37.77 | INFO | game | Thread 0 | Art | Start DROP GAME!
+18:18:41.90 | INFO | main | Thread 1 | Main | Have 152 diamonds!
+18:18:41.95 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:19:08.24 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 165
+18:19:12.23 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 156
+18:21:07.42 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:21:38.07 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 165
+18:22:23.74 | SUCCESS | main | Thread 0 | Art | Claimed reward! Balance: 4448
+18:22:43.03 | SUCCESS | tasks | Thread 0 | Art | Claimed TASK reward! Claimed: 200
+18:23:22.52 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+18:23:22.89 | INFO | main | Thread 0 | Art | Start farming!
+18:24:43.53 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:24:45.40 | INFO | main | Thread 0 | Art | Have 0 diamonds!
+18:24:45.40 | INFO | main | Thread 0 | Art | Sleep 35946 seconds!
+18:25:14.03 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 160
+18:27:23.21 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:27:53.73 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 148
+18:29:53.89 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:30:24.46 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 143
+18:33:07.62 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:33:37.94 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 143
+18:36:03.07 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:36:33.49 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 166
+18:38:31.75 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:39:02.38 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 143
+18:41:42.60 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:42:13.34 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 142
+18:44:13.84 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:44:44.00 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 161
+18:47:05.17 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:47:35.46 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 147
+18:50:54.04 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:51:24.22 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 166
+18:53:47.39 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:54:18.87 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 163
+18:57:38.05 | INFO | game | Thread 1 | Main | Start DROP GAME!
+18:58:12.56 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 168
+19:01:32.82 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:02:03.27 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 164
+19:04:01.47 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:04:31.93 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 152
+19:06:43.55 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:07:18.21 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 171
+19:09:51.73 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:10:21.98 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 158
+19:13:32.18 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:14:02.35 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 143
+19:17:11.16 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:17:41.55 | WARNING | game | Thread 1 | Main | Token is invalid. Refreshing token...
+19:17:41.68 | INFO | refresh | Thread 1 | Main | Token refreshed successfully.
+19:19:26.88 | INFO | game | Thread 1 | Main | Start DROP GAME!
+19:19:58.17 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 164
+10:49:34.97 | INFO | Найдено сессий: 2!
+10:49:35.58 | ERROR | Failed to send log to Telegram: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+10:49:35.60 | INFO | Проверяю сессии на валидность!
+10:49:36.05 | ERROR | Failed to send log to Telegram: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+10:49:40.72 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+10:49:41.57 | ERROR | Failed to send log to Telegram: {"ok":false,"error_code":400,"description":"Bad Request: chat not found"}
+10:50:08.12 | INFO | Найдено сессий: 2!
+10:50:08.12 | INFO | Проверяю сессии на валидность!
+10:50:10.36 | SUCCESS | Валидных сессий: 2; Невалидных: 0
+10:50:18.00 | INFO | main | Thread 1 | Main | Start! | PROXY : None
+10:50:21.14 | INFO | main | Thread 0 | Art | Start! | PROXY : None
+10:50:31.80 | SUCCESS | get_ref | Thread 1 | Main | Claimed referral reward! Claimed: 73.26
+10:50:37.13 | SUCCESS | tasks | Thread 1 | Main | Claimed TASK reward! Claimed: 200
+10:51:02.63 | INFO | main | Thread 1 | Main | Have 133 diamonds!
+10:51:03.02 | INFO | game | Thread 1 | Main | Start DROP GAME!
+10:51:10.49 | INFO | main | Thread 0 | Art | Have 2 diamonds!
+10:51:10.55 | INFO | game | Thread 0 | Art | Start DROP GAME!
+10:51:37.55 | SUCCESS | game | Thread 1 | Main | Claimed DROP GAME ! Claimed: 170
+10:51:41.02 | SUCCESS | game | Thread 0 | Art | Claimed DROP GAME ! Claimed: 147
+10:53:47.68 | INFO | game | Thread 1 | Main | Start DROP GAME!
